@@ -44,7 +44,18 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 | Amazon | AWS에 도커 활용 및 기능 지원 |
 
 # 2. 도커 설치 (Ubuntu)
-![image](https://user-images.githubusercontent.com/87262811/210516495-403baae9-f53f-4c99-b384-c9e64ff96cae.png)
-[도커공식 홈페이지 참고][https://docs.docker.com/desktop/install/ubuntu/]
+![image](https://user-images.githubusercontent.com/87262811/210516495-403baae9-f53f-4c99-b384-c9e64ff96cae.png) <br>
+[도커공식 홈페이지 참고][https://docs.docker.com/desktop/install/ubuntu/] <br>
+1번과 2번을 반드시 수행 햐여야 3번의 명령어가 작동 함... 위 싸이트에 자세하게 나와 있음.
 
+'''
+sudo service docker start
+sudo docker run hello-world
+'''
+
+![image](https://user-images.githubusercontent.com/87262811/210517242-5fd3a928-4206-4acd-aafc-1b7e4982e889.png) <br> 
+위 실행결과처럼 나와야 정상
+
+## Error 상황 발생 시
+![image](https://user-images.githubusercontent.com/87262811/210517367-7accac9a-5a8a-4529-ab9a-c90109cda589.png)
 

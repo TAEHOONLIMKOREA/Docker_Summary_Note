@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Docker%20Summary%20Note)
+![header](https://capsule-render.vercel.app/api?text=Docker%20Summary%20Note&fontSize=50&animation=fadeIn)
 
 Docker는 가상화 컨테이너에 Application 배포를 자동화시켜주는 오픈소스 엔진으로 마이크로서비스 아키텍처와 함께 각광받고 있는 엔진이다. 
 

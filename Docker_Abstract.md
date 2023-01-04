@@ -25,7 +25,7 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 
 ![image](https://user-images.githubusercontent.com/87262811/210515604-5345bc17-7811-4ea1-927d-be2cee71b9dd.png)
 
-| 번호 | README |
+| 번호 | 설명 |
 | ------ | ------ |
 | ① 개발 | 개발자 PC에서 APP 개발 |
 | ② Repository 배포 | 배포서버에 소스 업로드 |
@@ -35,7 +35,7 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 
 ## 1.3 도커의 기대효과 및 구현 사례
 
-| Plugin | README |
+|  | 구현 사례 |
 | ------ | ------ |
 | 성능 개선 | 개발과 운영 호환성 증가 |
 | 플랫폼 비종속 | 운영체제 커널에 관계없이 실행 |

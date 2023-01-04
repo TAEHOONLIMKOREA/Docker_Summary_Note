@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Docker%20Summary%20Note&fontSize=50&animation=fadeIn&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=Docker%20Summary%20Note&fontSize=50&animation=fadeIn&fontColor=eeeeee)
 
 Docker는 가상화 컨테이너에 Application 배포를 자동화시켜주는 오픈소스 엔진으로 마이크로서비스 아키텍처와 함께 각광받고 있는 엔진이다. 
 
@@ -13,6 +13,6 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 맥이나 윈도우에선 가상환경위에 리눅스를 깔아서 도커를 실행하기 때문에 더 느림..
 
 ![image](https://user-images.githubusercontent.com/87262811/210512114-579f81a0-6e31-42ad-b68a-223a2952f89c.png)
-도커 허브 : 깃 허브 같은 이미지파일들이 공유되어있는 홈페이지
-이미지 : Docker 컨테이너를 만들기 위한 Read Only Layer
-컨테이너 : 실행가능한 Docker 이미지
+*도커 허브 : 깃 허브 같은 이미지파일들이 공유되어있는 홈페이지
+*이미지 : Docker 컨테이너를 만들기 위한 Read Only Layer
+*컨테이너 : 실행가능한 Docker 이미지

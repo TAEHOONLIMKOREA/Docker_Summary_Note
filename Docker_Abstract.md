@@ -25,12 +25,13 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 
 ![image](https://user-images.githubusercontent.com/87262811/210515604-5345bc17-7811-4ea1-927d-be2cee71b9dd.png)
 
+| 번호 | README |
 | ------ | ------ |
-| 개발 | 개발자 PC에서 APP 개발 |
-| Repository 배포 | 배포서버에 소스 업로드 |
-| Registry 배포 | 배포서버에 소스 저장(배포) |
-| Image 생성 | Doker Image 생성 후 Registery 등록 |
-| Container 생성 | docker Image 다운로드 및 실행 |
+| ① 개발 | 개발자 PC에서 APP 개발 |
+| ② Repository 배포 | 배포서버에 소스 업로드 |
+| ③ Registry 배포 | 배포서버에 소스 저장(배포) |
+| ④ Image 생성 | Doker Image 생성 후 Registery 등록 |
+| ⑤ Container 생성 | docker Image 다운로드 및 실행 |
 
 ## 1.3 도커의 기대효과 및 구현 사례
 

@@ -43,3 +43,8 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 | Microsoft | Windows Server 2016에 도커 적용 |
 | Amazon | AWS에 도커 활용 및 기능 지원 |
 
+# 2. 도커 설치 (Ubuntu)
+![image](https://user-images.githubusercontent.com/87262811/210516495-403baae9-f53f-4c99-b384-c9e64ff96cae.png)
+[도커공식 홈페이지 참고][https://docs.docker.com/desktop/install/ubuntu/]
+
+

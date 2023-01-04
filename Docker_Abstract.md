@@ -12,7 +12,7 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 ![image](https://user-images.githubusercontent.com/87262811/210501063-a34bf59a-b250-42fb-a8aa-5dd9dc71577a.png)
 맥이나 윈도우에선 가상환경위에 리눅스를 깔아서 도커를 실행하기 때문에 더 느림..
 
-![image](https://user-images.githubusercontent.com/87262811/210511751-2bcb218c-6dab-40d0-8801-bb3f172b8a91.png)
+![image](https://user-images.githubusercontent.com/87262811/210511985-cb9c9377-10a9-407c-9494-b8f48df018f2.png)
 도커 허브 : 깃 허브 같은 이미지파일들이 공유되어있는 홈페이지
 이미지 : Docker 컨테이너를 만들기 위한 Read Only Layer
 컨테이너 : 실행가능한 Docker 이미지

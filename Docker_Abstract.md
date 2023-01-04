@@ -23,9 +23,9 @@ Docker 는 Container 와 Image 라는 개념으로 구성되며, Network 및 Dat
 
 ## 1-2. 컨테이너 배포 절차
 
-![image](https://user-images.githubusercontent.com/87262811/210514566-cf61f67d-4ea8-4113-bf05-1f336976a407.png)
+![image](https://user-images.githubusercontent.com/87262811/210515604-5345bc17-7811-4ea1-927d-be2cee71b9dd.png)
 
-
+| ------ | ------ |
 | 개발 | 개발자 PC에서 APP 개발 |
 | Repository 배포 | 배포서버에 소스 업로드 |
 | Registry 배포 | 배포서버에 소스 저장(배포) |
